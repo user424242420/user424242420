@@ -2,3 +2,4 @@
 - 👀 I’m interested in Information Security, Data Science
 - 📫 [Email](mailto:w3fxywk2i@mozmail.com)
 - ✈️ [Telegram](https://t.me/user424242420)
+- 🔒[PGP](https://keys.openpgp.org/vks/v1/by-fingerprint/A97FD10D3E586D1D240B3D1178B02A3AF6C3AEF3)
